@@ -83,7 +83,7 @@ print("RMSE= ",rmse)
 ## predicted X and Y value
 ![image](https://github.com/kabilan22000284/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/123469171/59704ba1-05a8-460d-92b3-ff590e3e0713)
 
-## MSE,MAE and MRAE
+## MSE,MAE and RMSE
 ![image](https://github.com/kabilan22000284/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/123469171/e4cd2e9b-e71d-41e6-8d7a-c76a9f64473d)
 
 
